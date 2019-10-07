@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waegooyae.wanefamily.co.uk/sitemap.xml
